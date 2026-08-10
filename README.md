@@ -1,6 +1,10 @@
 # Personal Atlas
 
+[![Deploy static site to GitHub Pages](https://github.com/jiangnan030-del/personal-atlas/actions/workflows/pages.yml/badge.svg)](https://github.com/jiangnan030-del/personal-atlas/actions/workflows/pages.yml)
+
 Jiangnan 的个人网站 MVP：产品、AI 与体验设计。
+
+**线上网站：** https://jiangnan030-del.github.io/personal-atlas/
 
 ## 特性
 
@@ -22,7 +26,7 @@ python3 -m http.server 8080
 
 ## 部署
 
-可直接部署到 GitHub Pages、Cloudflare Pages、Netlify 或 Vercel。
+项目通过 GitHub Actions 自动部署至 GitHub Pages。推送到 `main` 分支后会自动发布。
 
 ## 下一步
 
