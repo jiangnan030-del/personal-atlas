@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jiangnan030-del.github.io/personal-atlas/sitemap.xml
